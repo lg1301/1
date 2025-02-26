@@ -1,3 +1,1 @@
-# 1
-Prueba
-uno, dos, tres
+Este proyecto es una prueba de cómo crear un repositorio  en GITHUB y clonarlo en la compu.
